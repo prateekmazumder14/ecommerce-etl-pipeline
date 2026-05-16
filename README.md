@@ -8,6 +8,13 @@ Demonstrates the same ETL patterns used in a real production integration
 (Shopify → Bloomreach, 25k products, 500+ variant metafields) — 
 built as the open-source equivalent using public data.
 
+## Tech Stack
+- Python 3.x
+- pandas
+- requests
+- SQLite (via sqlite3)
+- python-dotenv
+
 ## Architecture
 
 Fake Store API (source)
