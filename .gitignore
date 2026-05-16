@@ -1,3 +1,6 @@
 .env
 __pycache__/
 .venv
+products.db
+raw_products.json
+products.jsonl
