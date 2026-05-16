@@ -9,6 +9,7 @@ Demonstrates the same ETL patterns used in a real production integration
 built as the open-source equivalent using public data.
 
 ## Tech Stack
+
 - Python 3.x
 - pandas
 - requests
